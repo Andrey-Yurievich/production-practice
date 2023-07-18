@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IO
+comment1.params=fileName
+comment1.target=java.util.List\ inpLines(java.lang.String)
+comment2.params=fileName\ lines
+comment2.target=boolean\ outpLines(java.lang.String,\ java.util.List)
+numComments=3

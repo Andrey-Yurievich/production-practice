@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Transfer
+comment1.params=lines
+comment1.target=java.util.List\ StringsToResults(java.util.List)
+comment2.params=results
+comment2.target=java.util.List\ ResultsToString(java.util.List)
+numComments=3

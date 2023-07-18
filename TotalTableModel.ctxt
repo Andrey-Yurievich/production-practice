@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TotalTableModel
+comment1.params=records\ strColName\ intColName
+comment1.target=TotalTableModel(java.util.List,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getRowCount()
+comment3.params=
+comment3.target=int\ getColumnCount()
+comment4.params=r\ c
+comment4.target=java.lang.Object\ getValueAt(int,\ int)
+comment5.params=c
+comment5.target=java.lang.String\ getColumnName(int)
+numComments=6

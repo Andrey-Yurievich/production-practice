@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CompChampAscBallDesc
+comment1.params=ob1\ ob2
+comment1.target=int\ compare(java.lang.Object,\ java.lang.Object)
+numComments=2

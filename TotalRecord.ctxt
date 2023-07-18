@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TotalRecord
+comment1.params=totalDay\ totalTime
+comment1.target=TotalRecord(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ returnString()
+numComments=3
